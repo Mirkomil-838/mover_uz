@@ -1,0 +1,1 @@
+ADMINS = [123456789, 987654321]  # Replace with your actual admin IDs
